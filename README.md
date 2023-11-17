@@ -14,7 +14,7 @@ This Django-based Store Monitoring System tracks the status of stores and genera
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/store-monitoring.git
+    git clone https://github.com/your-username/StoreMonitoring-Loop.git
     cd store-monitoring
     ```
 
