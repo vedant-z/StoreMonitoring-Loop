@@ -33,7 +33,7 @@ This Django-based Store Monitoring System tracks the status of stores and genera
 4. Load data into the database:
 
     ```bash
-    python manage.py loaddata
+    python manage.py load_data
     ```
 
 ## Uptime and Downtime calculation 
